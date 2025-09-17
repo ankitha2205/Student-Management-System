@@ -1,0 +1,32 @@
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# Compiled class files
+bin/
+*.class
+
+# Web content temp files
+build/
+tmp/
+*.war
+*.ear
+
+# Database files
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE files (if ever used)
+.idea/
+*.iml
+
+# Maven target folder (if using Maven)
+target/
